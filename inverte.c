@@ -1,5 +1,5 @@
-\\Algumas técnicas exigiam que em um dos seus passos fosse aplicado o complemento do número que está armazenado no disco rígido,
-\\para realizar essa operação foram criados um programa na linguagem C.
+\\Algumas técnicas exigem em um dos seus passos que seja aplicado o complemento da sequencia de números que estão armazenados no disco rígido,
+\\para realizar essa operação foi este programa na linguagem C.
 
 #include <stdio.h>
 #include <unistd.h>
